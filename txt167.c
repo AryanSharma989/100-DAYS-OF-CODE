@@ -1,4 +1,4 @@
-// INORDER TRAVERSE OF TREE
+// INORDER TRAVERSE OF TR
 #include <stdio.h>
 #include <malloc.h>
 
