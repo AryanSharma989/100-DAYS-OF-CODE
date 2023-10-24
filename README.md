@@ -1,4 +1,4 @@
-# 100 Days of Code Challeng
+# 100 Days of Code Challenge
 
 Welcome to the 100 Days of Code Challenge repository. This challenge is designed to help you enhance your coding skills and build a consistent coding habit. The goal is to code for at least one hour every day for 100 consecutive days. Whether you're a beginner or an experienced developer, this challenge can help you stay motivated and make significant progress.
 
