@@ -2,7 +2,7 @@ class Main {
     public static void main(String[] args) {
         
       // create an array
-      int[] numbers = {5, 7, 10, -3,2};
+      int[] numbers = {4, 7, 10, -3,2};
       
       // for each loop 
       for (int number: numbers) {
